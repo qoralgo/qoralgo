@@ -5,7 +5,7 @@
   <div>
     <p>I am a first-year student at MGKEIT (Moscow State College of Electromechanics and Information Technology).</p>
     <p><b>Specialty:</b> 09.02.07 Information Systems and Programming.</p>
-    <p><b>Qualification:</b>Junior Developer</p>
+    <p><b>Qualification:</b> Junior Developer</p>
   </div>
   <div>
     <h2>My Skills</h2>
